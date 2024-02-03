@@ -5,7 +5,8 @@
 -  I'm a middle school student.
 - I am playing *Baldur's Gates 3*
 
-[![Static Badge](https://img.shields.io/badge/steam-%E4%BA%8E%E5%B7%9D%E8%88%AA%E7%BB%83%E4%B9%A030%E6%9C%88-blue)](https://steamcommunity.com/id/GLZdesteam/)[![Static Badge](https://img.shields.io/badge/steam-%E4%BA%8E%E5%B7%9D%E8%88%AA%E7%BB%83%E4%B9%A0%E4%B8%A4%E5%B9%B4%E5%8D%8A-blue)](https://steamcommunity.com/profiles/76561199348662436/)
+[![Static Badge](https://img.shields.io/badge/steam-%E4%BA%8E%E5%B7%9D%E8%88%AA%E7%BB%83%E4%B9%A030%E6%9C%88-blue)](https://steamcommunity.com/id/GLZdesteam/)
+[![Static Badge](https://img.shields.io/badge/steam-%E4%BA%8E%E5%B7%9D%E8%88%AA%E7%BB%83%E4%B9%A0%E4%B8%A4%E5%B9%B4%E5%8D%8A-blue)](https://steamcommunity.com/profiles/76561199348662436/)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glzat)](https://github.com/anuraghazra/github-readme-stats)
