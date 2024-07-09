@@ -18,7 +18,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glzat&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glzat&repo=game-score)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 glzat/glzat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
