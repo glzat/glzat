@@ -2,8 +2,8 @@
 - 👀 I’m interested in coding(though I am not good at it)
 - 🌱 I’m currently learning Python and C++
 - 📫 E-mail me at zsqdglz@163.com
--  I'm a middle school student.
-- I am playing *Baldur's Gates 3*
+- 🏫I'm a middle school student.
+- 🎮I am playing *Baldur's Gates 3*
 
 [![Static Badge](https://img.shields.io/badge/steam-%E4%BA%8E%E5%B7%9D%E8%88%AA%E7%BB%83%E4%B9%A030%E6%9C%88-blue)](https://steamcommunity.com/id/GLZdesteam/)
 [![Static Badge](https://img.shields.io/badge/steam-%E4%BA%8E%E5%B7%9D%E8%88%AA%E7%BB%83%E4%B9%A0%E4%B8%A4%E5%B9%B4%E5%8D%8A-blue)](https://steamcommunity.com/profiles/76561199348662436/)
