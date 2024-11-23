@@ -12,6 +12,7 @@
 [![Static Badge](https://img.shields.io/badge/X-glz-black)](https://twitter.com/glz82155492)
 [![Static Badge](https://img.shields.io/badge/instagram-SakuraXiao-pink)](https://www.instagram.com/sakuraxiaox/)
 
+![Introduction](https://api.xecades.xyz/api?img=1&date=2025-04-25&str=%E6%88%91%E7%9A%84%E7%94%9F%E6%97%A5&bg=228%2C172%2C172%2C0&bilibili=%E7%8E%A9%E5%AE%B6_XiaoX&github=glzat&qq=2629271964&wechat=SakuraXiaoX&quote=Ciallo%EF%BD%9E%28%E2%88%A0%E3%83%BB%CF%89%7B%25lt%25%7D+%29%E2%8C%92%E2%98%86&email=zsqdglz%40163.com)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glzat)](https://github.com/anuraghazra/github-readme-stats)
